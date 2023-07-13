@@ -1,1 +1,15 @@
+List of Colors:
+- Crimson
+- Orange
+- Blue
+- Cyan
+- Yellow
+- Charcoal
+- khaki
+- Coral
+- Silver
+- Fuchsia
+- Purple
+- Brown
+- Red
 Hello GitHub!
